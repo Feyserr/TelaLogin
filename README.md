@@ -1,4 +1,4 @@
-Tela de Login feito em ReactJS utilizando o styled components para fazer a estilização da tela, useState para gerenciar os dados que vão ser informados.
+Tela de Login feito em ReactJS utilizando o styled components para fazer a estilização da tela, useState para gerenciar os dados que vão ser informados e elementos avançados de CSS.
 
 Para testar basta clonar o repositorio, ou baixar-los, no cmd acessar o caminho da pasta e escrever yarn start para inicializar os codigos, e depois vai abrir no navegador padrão a tela feita.
 
